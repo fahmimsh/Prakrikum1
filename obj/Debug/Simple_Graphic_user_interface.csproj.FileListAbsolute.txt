@@ -1,0 +1,10 @@
+C:\Users\asus\source\repos\Workshop_interface\Simple_Graphic_user_interface\bin\Debug\Simple_Graphic_user_interface.exe.config
+C:\Users\asus\source\repos\Workshop_interface\Simple_Graphic_user_interface\bin\Debug\Simple_Graphic_user_interface.exe
+C:\Users\asus\source\repos\Workshop_interface\Simple_Graphic_user_interface\bin\Debug\Simple_Graphic_user_interface.pdb
+C:\Users\asus\source\repos\Workshop_interface\Simple_Graphic_user_interface\obj\Debug\Simple_Graphic_user_interface.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\Workshop_interface\Simple_Graphic_user_interface\obj\Debug\Simple_Graphic_user_interface.Form1.resources
+C:\Users\asus\source\repos\Workshop_interface\Simple_Graphic_user_interface\obj\Debug\Simple_Graphic_user_interface.Properties.Resources.resources
+C:\Users\asus\source\repos\Workshop_interface\Simple_Graphic_user_interface\obj\Debug\Simple_Graphic_user_interface.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\Workshop_interface\Simple_Graphic_user_interface\obj\Debug\Simple_Graphic_user_interface.exe
+C:\Users\asus\source\repos\Workshop_interface\Simple_Graphic_user_interface\obj\Debug\Simple_Graphic_user_interface.pdb
+C:\Users\asus\source\repos\Workshop_interface\Simple_Graphic_user_interface\obj\Debug\Simple_Graphic_user_interface.csproj.CoreCompileInputs.cache
